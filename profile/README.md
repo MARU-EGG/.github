@@ -120,7 +120,9 @@
 
 ## 프로젝트 구조도
 
-### BackEnd
+## BackEnd
+
+### 아키텍처
 
 ![image](https://github.com/user-attachments/assets/d08e61f8-431d-45d2-95b6-c019baa6aea8)
 
