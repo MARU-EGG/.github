@@ -1,8 +1,9 @@
 # MARU EGG
 
-## 대학 입시 챗봇 서비스
+## 명지대학교 RAG기반 AI 입학 문의 챗봇
 
- 
+![90](https://github.com/user-attachments/assets/3b32fd90-a543-48ef-a2e3-e22f37b2451b)
+
 ---
 
 ### FE
