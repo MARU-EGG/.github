@@ -159,7 +159,7 @@
 
 ### 아키텍처
 
-![203](https://github.com/user-attachments/assets/96e2a6e7-937d-48b5-a7ad-5cc4beaa4fd1)
+![아키텍처](https://github.com/user-attachments/assets/da4d8751-5b80-4eda-a061-96df8cc94411)
 
 ### CI/CD
 
