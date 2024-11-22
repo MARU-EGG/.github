@@ -1,5 +1,9 @@
 # 🥚 MARU EGG
 
+## 🔗 Link
+- 입학처 홈페이지(좌측하단) [바로가기](https://iphak.mju.ac.kr/)
+- 프로젝트 페이지 [바로가기](https://maru-egg-fe.vercel.app/)
+
 ## ✨ 명지대학교 RAG기반 AI 입학 문의 챗봇
 
 ![90](https://github.com/user-attachments/assets/3b32fd90-a543-48ef-a2e3-e22f37b2451b)
