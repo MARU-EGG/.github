@@ -48,49 +48,52 @@ RAG기반 AI 챗봇을 활용해 입학원서 접수 이전부터 등록금 제�
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Tanstack-query](https://img.shields.io/badge/-tanstackQuery-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
-![TailwindCSS](https://img.shields.io/badge/-Next.JS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
+![Next.js](https://img.shields.io/badge/-Next.JS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Storybook](https://img.shields.io/badge/-storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
-![storybook](https://img.shields.io/badge/-storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
-![vercel](https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+---
 
 ### BE
 
-<img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot 3.3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/WEB FLUX-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+![Java 17](https://img.shields.io/badge/java%2017-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot 3.3.0](https://img.shields.io/badge/springboot%203.3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/web%20flux-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br/>
 
-<br>
-<img src="https://img.shields.io/badge/gradle 8.8-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/swagger-25A16?style=for-the-badge&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/DockerCompose-blue?style=for-the-badge&logo=docker&logoColor=white">
-<br>
+![Gradle 8.8](https://img.shields.io/badge/gradle%208.8-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL 8.0](https://img.shields.io/badge/mysql%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br/>
 
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/aws ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/aws amazonroute53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white">
-<img src="https://img.shields.io/badge/aws rds-134?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<br>
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/aws%20ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/aws%20route53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
 
 ### AI
 
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/aws ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/aws amazonroute53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white">
+![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <br/>
+![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) <br/>
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/aws%20ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/aws%20route53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white)
+
+---
 
 ### 공통
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
