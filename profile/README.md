@@ -1,139 +1,61 @@
-# 🥚 MARU EGG
+<div align="center" >
 
-## 🔗 Link
-- 입학처 홈페이지(우측하단) [바로가기](https://iphak.mju.ac.kr/)
-- 프로젝트 페이지 [바로가기](https://maru-egg-fe.vercel.app/)
+# MARU-EGG
 
-## ✨ 명지대학교 RAG기반 AI 입학 문의 챗봇
+**예비 명지인을 위한 입학 챗봇 서비스**
 
-![90](https://github.com/user-attachments/assets/3b32fd90-a543-48ef-a2e3-e22f37b2451b)
+"MARU-EGG"는 수험생들이 원하는 정보를 쉽게 찾을 수 있도록 도움을 주기 위한 프로젝트입니다. <br />
+RAG기반 AI 챗봇을 활용해 입학원서 접수 이전부터 등록금 제출까지의 궁금한 내용을 빠르게 확인할 수 있습니다.
 
----
+</div>
 
-## ⭐️ 팀원 소개
+## 대화 프로세스
 
-### 📌 FE
+### 학과 / 전형 선택
 
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/swgvenghy">
-            <img src="https://avatars.githubusercontent.com/u/127816010?v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/sangmaaaaan">
-            <img src="https://avatars.githubusercontent.com/u/96802538?v=4" width="100px" />
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>최준호</b></td>
-    <td><b>박상민</b></td>
-  </tr>
-  <tr>
-    <td><b>Front-End</b></td>
-    <td><b>Front-End</b></td>
-  </tr>
-</table>
+![Image](https://github.com/user-attachments/assets/b0de5044-4b14-4b9a-97dd-7bd585c59958)
 
-[MARU-EGG-FrontEnd-Github-Repository](https://github.com/MARU-EGG/MARU_EGG_FE)
+- 수험생이 관심있는 전형("수시", "정시", "편입")을 선택합니다.
+- 해당 전형의 세부 전형을 확인할 수 있고, 관심있는 세부 전형에 대해 질문하고 정보를 얻습니다.
 
-### 📌 BE
+### 자주묻는 질문 확인하기
 
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/Hoya324">
-            <img src="https://avatars.githubusercontent.com/u/96857599?v=4" width="100px" />
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>나경호</b></td>
-  </tr>
-  <tr>
-    <td><b>Back-End</b></td>
-  </tr>
-</table>
+![Image](https://github.com/user-attachments/assets/0890e060-8b5e-4e11-bb44-f982ad482ea4)
 
-[MARU-EGG-BE-Github-Repository](https://github.com/MARU-EGG/MARU_EGG_BE)
+- 전형일정, 제출서류 등 수험생들이 많이 묻는 질문에 대한 답을 쉽게 얻습니다.
 
-### 📌 AI
+### 질문 자동완성 및 사용자 질문 답변받기
 
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/euntaek4187">
-            <img src="https://avatars.githubusercontent.com/u/108321588?v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://avatars.githubusercontent.com/u/64066925?v=4">
-            <img src="https://avatars.githubusercontent.com/u/64066925?v=4" width="100px" />
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>최은택</b></td>
-    <td><b>오명빈</b></td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td><b>AI</b></td>
-  </tr>
-</table>
+- 비슷한 질문을 한 사람들은 어떻게 질문했는지 확인하고 답변을 확인할 수 있습니다.
+- 새로운 질문을 했을 때에도 RAG기반 AI의 답변을 받을 수 있습니다.
 
-[MARU-EGG-LLM-Github-Repository](https://github.com/MARU-EGG/MARU_EGG_LLM)
+### 답변 출처 확인하기
 
-## ✨ 프로젝트 소개
+![Image](https://github.com/user-attachments/assets/4c9a534d-7a9c-4772-806a-ceca9ae960af)
 
-### 프로젝트 기간
+- 챗봇이 답변한 내용이 어떤 근거로 나온 답변인지 출처를 통해 확인할 수 있습니다.
 
-- 기획 및 설계 : 24.06.20 ~ 24.07.06
-- 프로젝트 구현(경진대회) : 24.07.07 ~ 24.08.20
+## 홍보내용
 
-### 프로젝트 기획, 설명
+[한국대학신문 - 명지대, 학생 주도 AI 챗봇 ‘마루에그봇’ 개발…입학 상담 효율화 제고](https://news.unn.net/news/articleView.html?idxno=577297) <br/>
+[명지투데이 - 명지대학교, 학생 주도 RAG 기반 AI 챗봇 '마루에그봇' 개발로 입학처 상담 효율화](https://www.mju.ac.kr/mjukr/302/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbWp1a3IlMkYxNjYlMkYyMjAxMzQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) <br/>
+[창의적 SW 프로그램경진대회 - AI응용부문 최우수상 수상](https://ctl.mju.ac.kr/mjukr/302/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbWp1a3IlMkYxNjYlMkYyMTYwNjUlMkZhcnRjbFZpZXcuZG8lM0Y%3D)
 
-- 대학교에 진학을 희망하는 입시생들에게 AI 챗봇을 통해 입시와 관련한 정보를 **빠르고 쉽게** 제공
+## 기술스택
 
-![2](https://github.com/user-attachments/assets/deb095e3-022c-4a6c-9f98-b93ec208b08c)
-![4](https://github.com/user-attachments/assets/a88db4ad-84b6-48c4-9a01-da8fde0edc8d)
-![5](https://github.com/user-attachments/assets/ed58265a-e398-485f-9807-a29cbb6bf478)
-![6](https://github.com/user-attachments/assets/0a28bc7a-23c0-4114-84c4-4ccb7364f3a5)
-![3](https://github.com/user-attachments/assets/20caf7a4-84ee-4c4d-b256-49bcb40b8e81)
-![7](https://github.com/user-attachments/assets/5249947c-261b-4640-9572-e12b52246b60)
-![66](https://github.com/user-attachments/assets/78246cfb-5f00-4d67-a0bf-2e2496e075d5)
-![19](https://github.com/user-attachments/assets/4c489ab6-fb7d-4c5b-827f-4e68fa757f84)
-![21](https://github.com/user-attachments/assets/84206180-1d93-46ee-8a26-4f71502527e4)
-![22](https://github.com/user-attachments/assets/0aae5605-2fb2-46df-a141-4765e9a8fa02)
-![23](https://github.com/user-attachments/assets/61912b9a-e334-46c2-a8cc-65ed4cf06537)
-![70](https://github.com/user-attachments/assets/280d406e-40d5-436c-b50a-27dcf8ac4fe9)
-![71](https://github.com/user-attachments/assets/51843c6f-9df0-44f3-aeb1-6ccfc3ae04e9)
-![79](https://github.com/user-attachments/assets/85fff289-8439-4f4d-897b-5abce3c3e734)
-![80](https://github.com/user-attachments/assets/89d443cc-c20d-478b-8066-79567ef1211d)
-![81](https://github.com/user-attachments/assets/4d82a2d6-2644-4b45-b4c1-b25d26d2b05b)
-![82](https://github.com/user-attachments/assets/ab3b71b7-f83b-4680-adfa-af7e63a07fed)
-![65](https://github.com/user-attachments/assets/69f8cdd3-1b5b-41d2-bb44-1fea679dc332)
-![68](https://github.com/user-attachments/assets/95dd9c10-65b3-48df-8b97-e04ecb3bc52b)
-![69](https://github.com/user-attachments/assets/ebd0319d-9570-4507-9e52-ed1ca3080dca)
-![76](https://github.com/user-attachments/assets/e702ce65-0dab-469b-bf98-3f716650b281)
+### FE
 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Tanstack-query](https://img.shields.io/badge/-tanstackQuery-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
+![TailwindCSS](https://img.shields.io/badge/-Next.JS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 
+![storybook](https://img.shields.io/badge/-storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
+![vercel](https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
-# 프론트엔드
+### BE
 
-## 프로젝트 구조도
-
-### 아키텍처
-
-![202](https://github.com/user-attachments/assets/14441cbd-90ed-490d-826b-08d49adab6e2)
-
-# 백엔드
-
-## 기술 스택
-
-<div align=left>
 <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot 3.3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
@@ -146,38 +68,29 @@
 <img src="https://img.shields.io/badge/testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-25A16?style=for-the-badge&logo=swagger&logoColor=white">
-
+<img src="https://img.shields.io/badge/DockerCompose-blue?style=for-the-badge&logo=docker&logoColor=white">
 <br>
 
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/aws ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/aws amazonroute53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/aws rds-134?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <br>
+
+### AI
+
+<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/aws ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/aws amazonroute53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white">
+
+### 공통
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</div>
-
-## 프로젝트 구조도
-
-### 아키텍처
-
-![아키텍처](https://github.com/user-attachments/assets/da4d8751-5b80-4eda-a061-96df8cc94411)
-
-### CI/CD
-
-![image](https://github.com/user-attachments/assets/11813edb-7240-4e1c-b797-d31f1ab4d578)
-
-# AI
-
-## 프로젝트 구조도
-
-### 아키텍처
-
-![204](https://github.com/user-attachments/assets/c6fdd732-5ea8-4ef3-ad16-22f858a9b959)
-
-
-
-
-
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
