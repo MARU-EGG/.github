@@ -182,11 +182,10 @@ RAG기반 AI 챗봇을 활용해 입학원서 접수 이전부터 등록금 제�
 </table>
 
 ### Design
-
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/enohs" width="100px" />
+      <img src="https://github.com/user-attachments/assets/8db9dc0e-ae35-4770-809e-3caea67e7d28" width="100px" />
     </td>
   </tr>
   <tr>
