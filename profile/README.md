@@ -82,11 +82,25 @@ RAG기반 AI 챗봇을 활용해 입학원서 접수 이전부터 등록금 제�
 
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <br/>
-![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) <br/>
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<br/>
+![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br/>
 ![AWS EC2](https://img.shields.io/badge/aws%20ec2-F05032?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS Route53](https://img.shields.io/badge/aws%20route53-F05032?style=for-the-badge&logo=amazonroute53&logoColor=white)
+<br>
+![LangChain](https://img.shields.io/badge/langchain-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIuNzE5MSAxNi40NjQ5TDkuNjQwNjIgMTcuNzM0NEwzLjg5MDYyIDIwLjI1TDYuMDkzNzUgMTQuNzYxN0wxMi43MTkxIDE2LjQ2NDlaIiBmaWxsPSJyZ2IoNzUsMCwxMzApIiBzdHJva2U9IndoaXRlIi8+PHBhdGggZD0iTTIyLjA3ODEgMy43NUwxOS4wNzgxIDEzLjA2MjVMMTIuNzE4OCAxNi40Njg4TDE3LjAxNTYgOS44OTA2MkwyMi4wNzgxIDMuNzVaIiBmaWxsPSJyZ2IoODUsMTgwLDEwMCkiIHN0cm9rZT0id2hpdGUiLz48cGF0aCBkPSJNNi4wOTM3NSAxNC43NjE3TDYuNzAzMTIgNi4xNzE4OEw5LjIzNDM4IDIuNzVMMjIuMDc4MSAzLjc1TDYuMDkzNzUgMTQuNzYxN1oiIGZpbGw9InJnYig0MCwxNjAsMjIwKSIgc3Ryb2tlPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
+![LangChain-OpenAI](https://img.shields.io/badge/langchain--openai-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain-Chroma](https://img.shields.io/badge/langchain--chroma-412991?style=for-the-badge&logo=chroma&logoColor=white)
+<br>
+![PyMuPDF](https://img.shields.io/badge/pymupdf-FF9E0F?style=for-the-badge&logo=pdf&logoColor=white)
+![PyMuPDF4LLM](https://img.shields.io/badge/pymupdf4llm-FF9E0F?style=for-the-badge&logo=pdf&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/chromadb-4285F4?style=for-the-badge&logo=database&logoColor=white)
+<br>
+![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Swagger (drf-yasg)](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<br>
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ---
 
